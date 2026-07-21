@@ -1,43 +1,50 @@
-# Hi, I'm Michael Cortés 👋
+# Hi there, I'm Michael Cortés 
 
-## Systems Engineering Student | AI Prompt Engineering | Software Development
+### Systems Engineering Student | AI Prompt Engineering | Software Development
 
-I'm a Systems Engineering student from Colombia passionate about Artificial Intelligence, software development, and solving real-world problems through technology.
-
-Currently, I'm building projects that combine software engineering with AI, while continuously improving my skills in prompt engineering and full-stack development.
+Building intelligent solutions through code and creativity.
 
 ---
 
 ## About Me
 
+I'm a Systems Engineering student from Colombia passionate about Artificial Intelligence, Prompt Engineering, and Software Development.
+
+I enjoy creating projects that combine technology, problem-solving, and creativity while continuously learning modern software engineering practices.
+
 -  Systems Engineering Student (6th Semester)
--  Based in Colombia
--  Interested in Artificial Intelligence & Large Language Models
--  Passionate about Software Development
--  Always learning new technologies
--  Open to remote opportunities
+-  Colombia
+-  Interested in Artificial Intelligence & LLMs
+-  Full Stack Development
+-  Continuous Learner
+-  Open to Remote Opportunities
 
 ---
 
-## Technologies
+## Tech Stack
 
-### Programming Languages
+**Languages**
 
 - Python
 - JavaScript
 - HTML
 - CSS
 
-### Frameworks & Tools
+**Frameworks & Databases**
 
 - React
 - Node.js
 - PostgreSQL
+
+**Tools**
+
 - Git
 - GitHub
 - VS Code
 
-### AI Tools
+---
+
+## AI Tools
 
 - ChatGPT
 - Claude
@@ -46,23 +53,30 @@ Currently, I'm building projects that combine software engineering with AI, whil
 
 ---
 
-## Current Focus
-
-- Prompt Engineering
-- Artificial Intelligence
-- Full Stack Development
-- Software Architecture
-- Database Design
-
----
-
 ## Current Projects
 
-- Lucky Gamma
-- Personal Portfolio
-- AI Prompt Engineering Repository
+-  Lucky Gamma
+-  Personal Portfolio
+-  Prompt Engineering Lab
 
 ---
 
-## Connect with Me
+## Currently Learning
 
+- Prompt Engineering
+- Large Language Models
+- Software Architecture
+- Database Design
+- Backend Development
+
+---
+
+## Connect
+
+LinkedIn *(Coming Soon)*
+
+Portfolio *(Coming Soon)*
+
+---
+
+> "Building intelligent solutions through code and creativity."
